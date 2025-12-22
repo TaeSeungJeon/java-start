@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/Day08_Java/Day/Day.iml" filepath="$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/Day08_Java/Day/Day.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/dd/Day08_Java/Day08_Java.iml" filepath="$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/dd/Day08_Java/Day08_Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../School_Java_WorkSpace/School_Java_WorkSpace/School_Java_WorkSpace.iml" filepath="$PROJECT_DIR$/../School_Java_WorkSpace/School_Java_WorkSpace/School_Java_WorkSpace.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/dd/dd.iml" filepath="$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/dd/dd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/ddd/ddd.iml" filepath="$PROJECT_DIR$/../20251201_Java/Java_WorkSpace/ddd/ddd.iml" />
+      <module fileurl="file://$PROJECT_DIR$/java-start.iml" filepath="$PROJECT_DIR$/java-start.iml" />
+    </modules>
+  </component>
+</project>
