@@ -1,1 +1,2 @@
-업로드 연습 ex) src경로의 Comp1 학습내용 [2025-12-22](src/operator/Comp1.java)
+[2025-12-22 스캐너 복습 시작](src/Scanner) || 
+[2025-12-22 배열 복습 시작](src/array)
