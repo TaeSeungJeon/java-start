@@ -1,5 +1,6 @@
-📘 Java 기초 (김영한 – 인프런)
-🎯 학습 목표
+* 해당 자료는 인프런 김영한 교수님의 자바 기초편 강의 참조함. *
+
+Java시작!
 
 자바의 핵심 문법과 객체지향 개념을 이해하고
 
@@ -7,14 +8,8 @@
 
 ---
 
-🧩 주요 학습 내용
-1️⃣ 자바 기본 문법
 
-자바 프로그램 구조 (main 메서드)
-
-변수와 데이터 타입
-
-기본형 / 참조형
+1. 기본형 / 참조형
 
 int, long, double, boolean, String
 
@@ -26,7 +21,7 @@ int, long, double, boolean, String
 
 ---
 
-2️⃣ 조건문과 반복문
+2️. 조건문과 반복문
 
 조건문
 
@@ -42,7 +37,7 @@ break, continue
 
 ---
 
-3️⃣ 배열과 컬렉션 기초
+3️. 배열과 컬렉션 기초
 
 배열(Array)
 
@@ -54,7 +49,7 @@ break, continue
 
 ---
 
-4️⃣ 메서드(Method)
+4️. 메서드(Method)
 
 메서드 정의와 호출
 
@@ -70,7 +65,7 @@ break, continue
 
 ---
 
-5️⃣ 객체 지향 프로그래밍(OOP) 기초
+5️. 객체 지향 프로그래밍(OOP) 기초
 
 클래스와 객체
 
@@ -86,7 +81,7 @@ this 키워드
 
 ---
 
-6️⃣ 캡슐화와 접근 제어자
+6️. 캡슐화와 접근 제어자
 
 접근 제어자
 
@@ -98,7 +93,7 @@ Getter / Setter 패턴
 
 ---
 
-7️⃣ static과 final
+7️. static과 final
 
 static 변수와 메서드
 
@@ -112,7 +107,7 @@ final
 
 ---
 
-8️⃣ 자바 메모리 구조 이해
+8️. 자바 메모리 구조 이해
 
 JVM 메모리 구조
 
@@ -128,7 +123,7 @@ GC(Garbage Collection) 개념
 
 ---
 
-💡 학습을 통해 얻은 점
+학습을 통해 얻은 점
 
 자바 문법을 왜 이렇게 설계했는지 이해하게 됨
 
@@ -138,11 +133,9 @@ GC(Garbage Collection) 개념
 
 ---
 
-🛠 사용 기술
-
 Language: Java
 
-IDE: IntelliJ IDEA
+IDE: IntelliJ IDEA 
 
 Version Control: Git / GitHub
 
